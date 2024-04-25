@@ -1,4 +1,4 @@
-#Ship & Fish V2 (HW-9)
+Ship & Fish V2 (HW-9)
 Welcome to Ship & Fish Version 2, an entertaining Unity project where you navigate a ship to collect a variety of animated fish, each offering its own unique experience. Whether it's regular, burning, or exploding fish, there's something exciting waiting for you. Dive into the game and explore Unity's physics engine, prefab instantiation, and basic AI for tracking objects.
 
 Key Features:
